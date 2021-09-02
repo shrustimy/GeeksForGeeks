@@ -6,9 +6,7 @@ Expected Auxiliary Space: `O(1)` for all the 5 functions.
 
 Link to the question --> [Special stack](https://practice.geeksforgeeks.org/problems/special-stack/1)
 
-Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() 
-and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete
-all the functions, using stack data-Structure.
+#### Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. Your task is to complete all the functions, using stack data-Structure.
 
 Example 1:
 ```
