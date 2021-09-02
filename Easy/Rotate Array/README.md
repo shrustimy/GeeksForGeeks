@@ -1,8 +1,11 @@
 ## Rotate Array
 Expected Time Complexity: `O(N)`
+
 Expected Auxiliary Space: `O(1)`
 
-Given an unsorted array arr[] of size N, rotate it by D elements in the counter-clockwise direction. 
+Link to the question --> [Rotate Array(gfg)](https://practice.geeksforgeeks.org/problems/rotate-array-by-n-elements-1587115621/1#)
+
+### Given an unsorted array arr[] of size N, rotate it by D elements in the counter-clockwise direction. 
 
 Example 1:
 ```
