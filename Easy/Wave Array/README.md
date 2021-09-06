@@ -1,6 +1,7 @@
 ## Wave Array
 
 Expected Time Complexity: `O(n)`.
+
 Expected Auxiliary Space: `O(1)`.
 
 Link to question --> [Wave Array](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1)
@@ -34,3 +35,5 @@ The task is to complete the function convertToWave() which converts the given ar
 Constraints:
 - 1 ≤ n ≤ 10<sup>6</sup>
 - 0 ≤ arr[i] ≤10<sup>7</sup>
+
+Topic Tags : Arrays, Sorting
