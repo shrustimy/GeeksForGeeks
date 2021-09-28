@@ -1,3 +1,3 @@
 ## Topics
 
-- [Arrays](../main/Array)
+- [Arrays](../main/Arrays)
