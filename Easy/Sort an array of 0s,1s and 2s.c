@@ -50,7 +50,7 @@ void sort012(int a[], int n)  // Time complexity of this solution O(n)
         else 
         cnt3++;
     }
-    for(i=0;i<cnt1;i++) // initializes the array in ascending order based on count values
+    for(i=0;i<cnt1;i++) // initializes the array in ascending order based on count values..
     a[i]=0;
     b=cnt1+cnt2;
     for(i=cnt1;i<b;i++)
